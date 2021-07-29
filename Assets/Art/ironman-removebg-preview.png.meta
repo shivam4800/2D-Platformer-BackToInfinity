@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 0dd0729aa9c8f16468b9b386dbf49daf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1941699609745048813
+    second: ironman-removebg-preview_0
+  - first:
+      213: 4670581102798154501
+    second: ironman-removebg-preview_1
+  - first:
+      213: 4596267980034046129
+    second: ironman-removebg-preview_2
+  - first:
+      213: -3450576505901899999
+    second: ironman-removebg-preview_3
+  - first:
+      213: -4390452997784034988
+    second: ironman-removebg-preview_4
+  - first:
+      213: 5300035227843464890
+    second: ironman-removebg-preview_5
+  - first:
+      213: 7143904377179511999
+    second: ironman-removebg-preview_6
+  - first:
+      213: 3398530768153807091
+    second: ironman-removebg-preview_7
+  - first:
+      213: 1395620128298805361
+    second: ironman-removebg-preview_8
+  - first:
+      213: -5800845182761851516
+    second: ironman-removebg-preview_9
+  - first:
+      213: 7267128683745986345
+    second: ironman-removebg-preview_10
+  - first:
+      213: 4455703770875942126
+    second: ironman-removebg-preview_11
+  - first:
+      213: 4564271444315234725
+    second: ironman-removebg-preview_12
+  - first:
+      213: 6026380139228530050
+    second: ironman-removebg-preview_13
+  - first:
+      213: -7267834862580743020
+    second: ironman-removebg-preview_14
+  - first:
+      213: 5986328871229263597
+    second: ironman-removebg-preview_15
+  - first:
+      213: 4583823860469100372
+    second: ironman-removebg-preview_16
+  - first:
+      213: -5327433592405575781
+    second: ironman-removebg-preview_17
+  - first:
+      213: -5831434364178703453
+    second: ironman-removebg-preview_18
+  - first:
+      213: -1470873842137246153
+    second: ironman-removebg-preview_19
+  - first:
+      213: 5168670259773319169
+    second: ironman-removebg-preview_20
+  - first:
+      213: -1962296130693050721
+    second: ironman-removebg-preview_21
+  - first:
+      213: -1120954005595493824
+    second: ironman-removebg-preview_22
+  - first:
+      213: -5129061855873901710
+    second: ironman-removebg-preview_23
+  - first:
+      213: 211731040893956215
+    second: ironman-removebg-preview_24
+  - first:
+      213: -7156036952248420604
+    second: ironman-removebg-preview_25
+  - first:
+      213: -8516080839937989091
+    second: ironman-removebg-preview_26
+  - first:
+      213: 9082276266803054029
+    second: ironman-removebg-preview_27
+  - first:
+      213: -1557228278694339178
+    second: ironman-removebg-preview_28
+  - first:
+      213: 4528892324826422792
+    second: ironman-removebg-preview_29
+  - first:
+      213: 6558451266664518171
+    second: ironman-removebg-preview_30
+  - first:
+      213: -2831335957351458994
+    second: ironman-removebg-preview_31
+  - first:
+      213: 6680607958701852339
+    second: ironman-removebg-preview_32
+  - first:
+      213: 3732120012346890300
+    second: ironman-removebg-preview_33
+  - first:
+      213: 1117390378419285142
+    second: ironman-removebg-preview_34
+  - first:
+      213: 2629298943412619665
+    second: ironman-removebg-preview_35
+  - first:
+      213: -6797142361999254577
+    second: ironman-removebg-preview_36
+  - first:
+      213: -3549578789459573084
+    second: ironman-removebg-preview_37
+  - first:
+      213: 8035350980815818450
+    second: ironman-removebg-preview_38
+  - first:
+      213: 1867147230742746212
+    second: ironman-removebg-preview_39
+  - first:
+      213: -5020486671294248060
+    second: ironman-removebg-preview_40
+  - first:
+      213: -6780806272493061368
+    second: ironman-removebg-preview_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ironman-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb1a41e72bd05e0800000000000000
+      internalID: -1941699609745048813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 154
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bafe664cc31d040800000000000000
+      internalID: 4670581102798154501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87e62306939cf30800000000000000
+      internalID: 4596267980034046129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 155
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f986723f61d10d0800000000000000
+      internalID: -3450576505901899999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 155
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a808924af113c0800000000000000
+      internalID: -4390452997784034988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 154
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe8aac75f18d8940800000000000000
+      internalID: 5300035227843464890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 155
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc94275e2f342360800000000000000
+      internalID: 7143904377179511999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 156
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f80b0a3ab10a2f20800000000000000
+      internalID: 3398530768153807091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 166
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178a2a4cc1d3e5310800000000000000
+      internalID: 1395620128298805361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a17c5a024f7fa0800000000000000
+      internalID: -5800845182761851516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 122
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274bb3f8070ad460800000000000000
+      internalID: 7267128683745986345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 125
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4dd67e8f6d5dd30800000000000000
+      internalID: 4455703770875942126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 125
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a16ed032bc875f30800000000000000
+      internalID: 4564271444315234725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 125
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858f28bec002a350800000000000000
+      internalID: 6026380139228530050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 115
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494cca9f2b6732b90800000000000000
+      internalID: -7267834862580743020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 117
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee09463466b31350800000000000000
+      internalID: 5986328871229263597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 121
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f6834d3830d9f30800000000000000
+      internalID: 4583823860469100372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 121
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97be28af572116b0800000000000000
+      internalID: -5327433592405575781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 121
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab5f109755921fa0800000000000000
+      internalID: -5831434364178703453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 121
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736def99808669be0800000000000000
+      internalID: -1470873842137246153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1082aea673ecab740800000000000000
+      internalID: 5168670259773319169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 39
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ecae9d01684c4e0800000000000000
+      internalID: -1962296130693050721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 75
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aedee55429170f0800000000000000
+      internalID: -1120954005595493824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 39
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b51a1ca69e1d8b0800000000000000
+      internalID: -5129061855873901710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7707868824830f200800000000000000
+      internalID: 211731040893956215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 76
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f9a56e46a0bc90800000000000000
+      internalID: -7156036952248420604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166cf0a89dc0d980800000000000000
+      internalID: -8516080839937989091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c1ca052aba0e70800000000000000
+      internalID: 9082276266803054029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 81
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1b3e812d936ae0800000000000000
+      internalID: -1557228278694339178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9547039bd9de30800000000000000
+      internalID: 4528892324826422792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 39
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12df3acdac440b50800000000000000
+      internalID: 6558451266664518171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 37
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e479646a2f215b8d0800000000000000
+      internalID: -2831335957351458994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b642160b8946bc50800000000000000
+      internalID: 6680607958701852339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 56
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38101ba0672bc330800000000000000
+      internalID: 3732120012346890300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cee1501a4c18f00800000000000000
+      internalID: 1117390378419285142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994b6a55752d7420800000000000000
+      internalID: 2629298943412619665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5649d803bba1a0800000000000000
+      internalID: -6797142361999254577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64000c5ec5dbec0800000000000000
+      internalID: -3549578789459573084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0d19d42d438f60800000000000000
+      internalID: 8035350980815818450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46496c7838079e910800000000000000
+      internalID: 1867147230742746212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4cedd8f5a35ab0800000000000000
+      internalID: -5020486671294248060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironman-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7f451f9cb5e1a0800000000000000
+      internalID: -6780806272493061368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
